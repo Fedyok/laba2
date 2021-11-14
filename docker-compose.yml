@@ -5,3 +5,4 @@ services:
         image: hello-world
     laba1:
         build: laba1/
+        
